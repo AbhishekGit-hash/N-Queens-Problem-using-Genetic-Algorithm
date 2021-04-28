@@ -1,1 +1,1 @@
-# N-Queens-Problem-using-Genetic-Algorithm
+# N Queens Problem using Genetic Algorithm
